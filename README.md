@@ -8,12 +8,10 @@ Tecnologias: Typescript
 Como rodar o projeto
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependeências: npm install
 
-npm install
-3 - Execute o projeto
+3 - Execute o projeto: npm run dev
 
-npm run dev
 Desafios
 [x] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
 
